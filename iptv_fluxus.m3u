@@ -1465,13 +1465,16 @@ http://162.244.83.199:1935/ynettv/ynettv/playlist.m3u8
 http://www.lengua.com/anthems/Cameroon.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/--VHC5kF57y8/VLsbhkNP4rI/AAAAAAAAAIg/-SjUfCZVxoY/s1600/1-1416787882-AfriqueMedia-2.png" group-title="CAMEROON",Afrique Media
-http://strhls.streamakaci.tv/str_afm_afm/str_afm_multi/str_afm_afm/str_afm_afm_360p/playlist.m3u8
+https://stream-02.ix7.dailymotion.com/37/dm/3/x5dk3kj/live-3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.camer.be/UserFiles/file/images/caMeroun/xVision4-220616750.jpg.pagespeed.ic.sj9MCafUOv.jpg" group-title="CAMEROON",Vision 4
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.crtv.cm/wp-content/uploads/2017/10/LOGO_CRTV_04.png" group-title="CAMEROON",CRTV
 https://stream-08.dc3.dailymotion.com/10/dm/3/x6jurup/live-3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canal2international.net/images/logo.png" group-title="CAMEROON",Canal 2
+http://canal2-live-b2-cdn.hexaglobe.net/5b5edc9832e117693badbb686f71cbc9/5b008a04/canal2intepri_fre.smil/canal2intepri_fre_360p.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/cote-d-ivoire/flag-3d-round-250.png" group-title="LABEL",~ Ivory Coast TV ~
 http://www.lengua.com/anthems/IvoryCoast.mp3
