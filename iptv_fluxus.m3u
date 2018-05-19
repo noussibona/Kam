@@ -1470,7 +1470,7 @@ http://strhls.streamakaci.tv/str_afm_afm/str_afm_multi/str_afm_afm/str_afm_afm_3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.camer.be/UserFiles/file/images/caMeroun/xVision4-220616750.jpg.pagespeed.ic.sj9MCafUOv.jpg" group-title="CAMEROON",Vision 4
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.crtv.cm/wp-content/uploads/2017/10/LOGO_CRTV_04.png.pagespeed.ic.sj9MCafUOv.jpg" group-title="CAMEROON",CRTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.crtv.cm/wp-content/uploads/2017/10/LOGO_CRTV_04.png" group-title="CAMEROON",CRTV
 https://stream-08.dc3.dailymotion.com/10/dm/3/x6jurup/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/cote-d-ivoire/flag-3d-round-250.png" group-title="LABEL",~ Ivory Coast TV ~
