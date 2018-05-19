@@ -1473,6 +1473,11 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.crtv.cm/wp-content/uploads/2017/10/LOGO_CRTV_sans_texte-768x339.png" group-title="CAMEROON",CRTV
 https://stream-08.dc3.dailymotion.com/10/dm/3/x6jurup/live-3.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.centraltv.fr/wp-content/uploads/africa24-tv.jpg" group-title="CAMEROON",Africa 24
+https://youtu.be/lfxsEOnt8GY
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dbm-tv.com/img/pictos/logo-bas.png" group-title="CAMEROON",Black Music https://stream-02.ix7.dailymotion.com/28/dm/3/x5qokx5/live-3.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.wasamundi.com/farm/access/var/thumbPics/thumb_547f1a3531c391417615925spectrum-tv-stv_liste_logo.jpg" group-title="CAMEROON",STV 2
 https://afrostreams.xyz/live/stv2/chunks.m3u8?nimblesessionid=1031960&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDE4IDk6Mjk6NDAgUE0maGFzaF92YWx1ZT1wWlk2RnVtellKQ1ZQVktPWlRmSWxBPT0mdmFsaWRtaW51dGVzPTMw
 
