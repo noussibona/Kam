@@ -1465,7 +1465,7 @@ http://162.244.83.199:1935/ynettv/ynettv/playlist.m3u8
 http://www.lengua.com/anthems/Cameroon.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/--VHC5kF57y8/VLsbhkNP4rI/AAAAAAAAAIg/-SjUfCZVxoY/s1600/1-1416787882-AfriqueMedia-2.png" group-title="CAMEROON",Afrique Media
-https://stream-14.dc3.dailymotion.com/01/dm/3/x5dk3kj/live-3.m3u8
+https://stream-13.dc3.dailymotion.com/10/dm/3/x5dk3kj/live-2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.camer.be/UserFiles/file/images/caMeroun/xVision4-220616750.jpg.pagespeed.ic.sj9MCafUOv.jpg" group-title="CAMEROON",Vision 4
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
@@ -1477,13 +1477,13 @@ https://stream-02.dc3.dailymotion.com/22/dm/3/x6jurup/live-3.m3u8
 https://youtu.be/lfxsEOnt8GY
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dbm-tv.com/img/pictos/logo-bas.png" group-title="CAMEROON",Black Music 
-https://stream-02.ix7.dailymotion.com/42/dm/3/x5qokx5/live-1.m3u8
+https://livevideo.infomaniak.com/streaming/livecast/teststream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.wasamundi.com/farm/access/var/thumbPics/thumb_547f1a3531c391417615925spectrum-tv-stv_liste_logo.jpg" group-title="CAMEROON",STV 2
 https://afrostreams.xyz/live/stv2/chunks.m3u8?nimblesessionid=1031960&wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDE4IDk6Mjk6NDAgUE0maGFzaF92YWx1ZT1wWlk2RnVtellKQ1ZQVktPWlRmSWxBPT0mdmFsaWRtaW51dGVzPTMw
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canal2international.net/images/logo.png" group-title="CAMEROON",Canal 2
-http://canal2-live-b2-cdn.hexaglobe.net/5b5edc9832e117693badbb686f71cbc9/5b008a04/canal2intepri_fre.smil/canal2intepri_fre_360p.m3u8
+http://canal2-live-b-cdn.hexaglobe.net/4694bcce2e9dbf2ddfd6ff088f7dd7d2/5b0950a2/canal2intepri_fre.smil/canal2intepri_fre_360p.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/cote-d-ivoire/flag-3d-round-250.png" group-title="LABEL",~ Ivory Coast TV ~
 http://www.lengua.com/anthems/IvoryCoast.mp3
