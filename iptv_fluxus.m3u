@@ -4593,6 +4593,9 @@ rtmp://stream.smcdn.pl/wawa-t/wawa_720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.wp.pl/a/i/wptv2/2010/logo_fb.png" group-title="POLAND",WP TV
 https://av-cdn-2.wpimg.pl/tv24/ngrp:wp1/chunklist_.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/TVP_Sport_logo.svg/750px-TVP_Sport_logo.svg.png" group-title="POLAND",TVP Sport
+http://rsdt-waw909-91.tvp.pl/token/video/live/37292685/20180621/532131965/5397df7b-976d-4128-822c-64f2db7afe5f/live193.isml/live_1600k/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.meloteca.com/imagens/flag500/latvia.jpg" group-title="LABEL",~ Latvia TV ~
 http://www.lengua.com/anthems/Latvia.mp3
 
