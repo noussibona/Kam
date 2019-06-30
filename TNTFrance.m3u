@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1, TF1
+https://s4.tntendirect.com/tf1/live/playlist.m3u8
+#EXTINF:-1, France Ô
+https://s4.tntendirect.com/franceo/live/playlist.m3u8
+#EXTINF:-1, TF1 Séries Films
+https://s4.tntendirect.com/hd1/live/playlist.m3u8
+#EXTINF:-1, L'Equipe
+https://s4.tntendirect.com/lequipe21/live/playlist.m3u8
+#EXTINF:-1, 6ter
+https://s4.tntendirect.com/6ter/live/playlist.m3u8
+#EXTINF:-1, RMC Découverte
+https://s4.tntendirect.com/rmcdecouverte/live/playlist.m3u8
+#EXTINF:-1, Chérie 25
+https://s4.tntendirect.com/cherie25/live/playlist.m3u8
+#EXTINF:-1, RTS Un
+https://s4.tntendirect.com/rts1/live/playlist.m3u8
+#EXTINF:-1, RTS Deux
+https://s4.tntendirect.com/rts2/live/playlist.m3u8
+#EXTINF:-1, M6
+https://s4.tntendirect.com/m6/live/playlist.m3u8
+#EXTINF:-1, ARTE
+https://s4.tntendirect.com/arte/live/playlist.m3u8
+#EXTINF:-1, France 2
+https://s4.tntendirect.com/france2/live/playlist.m3u8
+#EXTINF:-1, France 3
+https://s4.tntendirect.com/france3/live/playlist.m3u8
+#EXTINF:-1, France 4
+https://s4.tntendirect.com/france4/live/playlist.m3u8
+#EXTINF:-1, France 5
+https://s4.tntendirect.com/france5/live/playlist.m3u8
+#EXTINF:-1, C8
+https://s4.tntendirect.com/d8/live/playlist.m3u8
+#EXTINF:-1, W9
+https://s4.tntendirect.com/w9/live/playlist.m3u8
+#EXTINF:-1, TMC
+https://s4.tntendirect.com/tmc/live/playlist.m3u8
+#EXTINF:-1, TFX
+https://s4.tntendirect.com/nt1/live/playlist.m3u8
+#EXTINF:-1, NRJ12
+https://s4.tntendirect.com/nrj12/live/playlist.m3u8
+#EXTINF:-1, BFM TV
+https://s4.tntendirect.com/bmftv/live/playlist.m3u8
+#EXTINF:-1, CStar
+https://s4.tntendirect.com/d17/live/playlist.m3u8
+#EXTINF:-1, Gulli
+https://s4.tntendirect.com/gulli/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEBLACKAFRICA.png" tvg-id="0" group-title="PORTUGAL",BEBLACK AFRICA
+http://ec.playmedia.fr/beblack/africa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEBLACKCARIBBEAN.png" tvg-id="0" group-title="PORTUGAL",BEBLACK CARIBBEAN
+http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEBLACKCLASSIK.png" tvg-id="0" group-title="PORTUGAL",BEBLACK CLASSIK
+http://ec.playmedia.fr/beblack/classik/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TV5MONDE.png" tvg-id="0" group-title="PORTUGAL",TV5 MONDE
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
