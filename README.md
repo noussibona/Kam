@@ -14,3 +14,6 @@ http://landiptv.live:8080/get.php?username=cmauicv&password=t2cKpB7mBfSg9&type=m
  
 LISTA N:2
 http://tvpremiumhd.club/hd/lista.m3u
+
+VIP Iptv
+https://pastebin.com/u/fatboysbarpatong
