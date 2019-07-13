@@ -17,3 +17,5 @@ http://tvpremiumhd.club/hd/lista.m3u
 
 VIP Iptv
 https://pastebin.com/u/fatboysbarpatong
+World IPTB Best 
+https://pastebin.com/raw/YKHwjda3
