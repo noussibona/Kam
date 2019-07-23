@@ -1,0 +1,130 @@
+@king_network7
+ 
+HIT | http://aresera.ddns.net:6923/get.php?username=dcgbdinQlM&password=XnKKmsGk5e&type=m3u | Active | 10/17/2018 - 09/17/2019 | Max Connections: 1 | 0 Connected | Real Url: ares.dominium.tv | Time Zone: Europe/Rome
+ 
+HIT | http://buyiptv.live:25461/get.php?username=tRDtym0PmU&password=VJGJc5Hj2G&type=m3u | Active | 12/08/2018 - 12/08/2019 | Max Connections: 1 | 1 Connected | Real Url: buyiptv.live | Time Zone: Europe/Athens
+ 
+HIT | http://netflexx.org/get.php?username=iBp3dxX3gA&password=aJThpa5EAl&type=m3u | Active | 03/16/2018 - 05/16/2020 | Max Connections: 1 | 1 Connected | Real Url: netflexx.org | Time Zone: Europe/Brussels
+ 
+HIT | http://ok3.se:8000/get.php?username=test&password=1234&type=m3u | Active | 03/11/2018 - Unlimited | Max Connections: 1 | 1 Connected | Real Url: ok3.se | Time Zone: America/New_York
+ 
+HIT | http://f.ok2.se:8000/get.php?username=Z3UDJ3WG9u&password=tEqpOCWRci&type=m3u | Active | 10/11/2018 - 08/15/2019 | Max Connections: 1 | 0 Connected | Real Url: ok2.se | Time Zone: America/New_York
+ 
+HIT | http://tv.factoryiptv.com:80/get.php?username=Mary&password=Mary&type=m3u | Active | 07/17/2019 - 08/17/2019 | Max Connections: 1 | 1 Connected | Real Url: tv.factoryiptv.com | Time Zone: America/Sao_Paulo
+ 
+HIT | http://tv.factoryiptv.com/get.php?username=jr&password=jr&type=m3u | Active | 07/11/2019 - 08/11/2019 | Max Connections: 1 | 1 Connected | Real Url: tv.factoryiptv.com | Time Zone: America/Sao_Paulo
+ 
+HIT | http://maxptv.ddns.net:25461/get.php?username=abit&password=abit&type=m3u | Active | 05/28/2019 - 05/28/2021 | Max Connections: 1 | 1 Connected | Real Url: maxptv.ddns.net | Time Zone: America/Sao_Paulo
+ 
+HIT | http://tv.factoryiptv.com/get.php?username=douglas&password=douglas&type=m3u | Active | 04/23/2019 - 07/22/2019 | Max Connections: 1 | 0 Connected | Real Url: tv.factoryiptv.com | Time Zone: America/Sao_Paulo
+ 
+HIT | http://maxptv.ddns.net:25461/get.php?username=gaspar&password=123&type=m3u | Active | 06/17/2019 - 06/18/2021 | Max Connections: 1 | 1 Connected | Real Url: maxptv.ddns.net | Time Zone: America/Sao_Paulo
+ 
+HIT | http://maxptv.ddns.net:25461/get.php?username=juliano&password=1234&type=m3u | Active | 05/07/2019 - 05/07/2021 | Max Connections: 1 | 1 Connected | Real Url: maxptv.ddns.net | Time Zone: America/Sao_Paulo
+ 
+HIT | http://portal.germanyservers.de:8000/get.php?username=muratbey&password=12345678&type=m3u | Active | 08/30/2018 - 09/09/2019 | Max Connections: 1 | 0 Connected | Real Url: portal.germanyservers.de | Time Zone: Europe/Istanbul
+ 
+HIT | http://maxptv.ddns.net:25461/get.php?username=diego&password=1234&type=m3u | Disabled | 05/04/2019 - 05/04/2021 | Max Connections: 1 | 0 Connected | Real Url: maxptv.ddns.net | Time Zone: America/Sao_Paulo
+ 
+HIT | http://iptv.team1454.com:8080/get.php?username=Feridun2&password=26092018&type=m3u | Active | 09/26/2018 - 09/26/2019 | Max Connections: 1 | 1 Connected | Real Url: iptv.team1453.com | Time Zone: Europe/Istanbul
+ 
+HIT | http://cineplus.adetroniktv.com:8000/get.php?username=VelaSoft&password=hDZDEWo33I&type=m3u | Active | 10/27/2018 - Unlimited | Max Connections: 50 | 49 Connected | Real Url: amx.adetroniktv.com | Time Zone: Europe/Zurich
+ 
+HIT | http://portal.guzeliptv.com:8000/get.php?username=jdTMJnW1L8&password=gqs9iohZ9z&type=m3u | Active | 04/22/2019 - 07/22/2020 | Max Connections: 1 | 0 Connected | Real Url: portal.germanyservers.de | Time Zone: Europe/Istanbul
+ 
+HIT | http://line.dynoconnect.me:8000/get.php?username=Polandhdsfhadfhahs&password=bdffVpl7tq&type=m3u | Active | 07/20/2018 - Unlimited | Max Connections: 160 | 0 Connected | Real Url: line.protv.cc | Time Zone: Europe/London
+ 
+HIT | http://cem1.ddns.net:8000/get.php?username=ismail&password=capar&type=m3u | Active | 09/15/2018 - 09/15/2019 | Max Connections: 1 | 1 Connected | Real Url: edr.akiptv.biz | Time Zone: Europe/Athens
+ 
+HIT | http://iptv.clines.cc:80/get.php?username=123&password=123&type=m3u | Active | 06/27/2019 - 06/27/2020 | Max Connections: 1 | 1 Connected | Real Url: fast.vlines.cc | Time Zone: UTC
+ 
+HIT | http://nefesiptv.com:8080/get.php?username=ahmet24&password=03102018&type=m3u | Disabled | 10/03/2018 - 10/03/2019 | Max Connections: 1 | 0 Connected | Real Url: tons.news | Time Zone: Europe/Istanbul
+ 
+HIT | http://esuntv.ddns.net/get.php?username=pe1jwUZ8iG&password=6XHReyyWOH&type=m3u | Active | 12/17/2018 - 08/20/2019 | Max Connections: 1 | 0 Connected | Real Url: noaccessno.ayproviders.xyz | Time Zone: Europe/Rome
+ 
+HIT | http://luminar.tv:2300/get.php?username=Anr817NIfw&password=49AP2Sxfx3&type=m3u | Active | 02/05/2018 - 08/12/2019 | Max Connections: 1 | 0 Connected | Real Url: luminar.tv | Time Zone: Europe/Rome
+ 
+HIT | http://maxptv.ddns.net:25461/get.php?username=giovanne&password=giovanne&type=m3u | Active | 04/18/2019 - 04/18/2021 | Max Connections: 1 | 1 Connected | Real Url: maxptv.ddns.net | Time Zone: America/Sao_Paulo
+ 
+http://ns549026.ip-66-70-179.net:8080/get.php?username=emerson&password=emerson123&type=m3u
+ 
+http://5.226.139.147:8000/get.php?username=MY127nV2t0&password=jRmGhkTKIw&type=m3u
+ 
+http://speedtvstars.com:25461/get.php?username=PtJ1mh0hpl&password=bti4WcevWG&type=m3u
+ 
+http://smartworld.dyndns.tv:8000/get.php?username=MY127nV2t0&password=jRmGhkTKIw&type=m3u
+ 
+http://s0lc.net:8000/get.php?username=qwerty&password=qwerty123&type=m3u
+http://ipfortv.com:25461/get.php?username=bella&password=bella&type=m3u
+ 
+http://123iptv.nl:88/get.php?username=A3w30mAEPw&password=UWym6qooJt&type=m3u
+ 
+http://mytv.fun:8080/get.php?username=7w3qem1rh&password=dfzrfyj0or&type=m3u
+ 
+http://thenew.tv:8000/get.php?username=Domingo1&password=Domingo12&type=m3u
+ 
+http://iptv.wtf:25461/get.php?username=yablmqtt&password=p55nx9fFX7&type=m3u
+ 
+http://v2pro.online:8000/get.php?username=8a5n2wpVVd&password=Xg46nZwn3Z&type=m3u
+ 
+http://www.sansat.net:25461/get.php?username=MAG9974153018&password=MAG9974153018&type=m3u
+ 
+http://46.166.148.163:8000/get.php?username=SGZxlDyfdh&password=U3ktA3mDEa&type=m3u
+ 
+http://ok2.se:8000/get.php?username=M5x842emHj&password=SrpLIAdu2O&type=m3u
+ 
+http://ok2.se:8000/get.php?username=dxmm6daXdT&password=HuqcEZyzF2&type=m3u
+ 
+http://ok2.se:8000/get.php?username=jJotmR0w9j&password=z8SwP1Lc7H&type=m3u
+ 
+http://abc1.myplay.live:2086/get.php?username=anas&password=1234&type=m3u
+ 
+http://pro.smartgotv.com:8005/get.php?username=4576679684&password=4576679684&type=m3u
+ 
+http://iptv.megatv.ws:25461/get.php?username=btpWLqyYNd&password=2cdv4bwlEc&type=m3u
+ 
+http://gold-iptv.ddns.me:1991/get.php?username=salim&password=11042019&type=m3u
+ 
+http://edr.akiptv.biz:8000/get.php?username=usincep&password=DfzLQqoEL5&type=m3u
+ 
+http://system01.dyndns.org:8000/get.php?username=tSdsOtoYKM&password=YA5kTEXIXx&type=m3u
+ 
+http://ok3.se:8000/get.php?username=YoqUNi7gTX&password=ys3wdaRzXx&type=m3u
+ 
+http://ok2.se:80/get.php?username=P6Lrcc7kkG&password=b0aPnPP7nV&type=m3u
+ 
+http://iptv.clines.cc:80/get.php?username=Z6ZQnvSVAM&password=Gu2njOlFtT&type=m3u
+ 
+http://iptv.clines.cc:80/get.php?username=tony&password=tony1234&type=m3u
+ 
+http://iptv.clines.cc/get.php?username=4VGEeaGfe9&password=1UM2LQAf6s&type=m3u
+ 
+http://quatv2.com/get.php?username=agenor&password=agenor&type=m3u
+ 
+http://iptv.clines.cc/get.php?username=MLoFzReQFF&password=yR77LCS5SK&type=m3u
+ 
+http://merlin.magikdata.biz:8000/get.php?username=jose09&password=jose09&type=m3u
+ 
+http://iptv.clines.cc:80/get.php?username=C5Ny4M0LOQ&password=Jwvagu6RYP&type=m3u
+ 
+http://185.132.179.49:8000/get.php?username=fhd2231nb4&password=f1aCdtLb9L&type=m3u
+ 
+http://ok2.se:8000/get.php?username=M5XcRqMSdT&password=bRcNyNxwJo&type=m3u
+ 
+http://voxtv.dynns.com:8000/get.php?username=afghan&password=afghan&type=m3u
+ 
+http://voxtv.dynns.com:8000/get.php?username=indian&password=indian&type=m3u
+ 
+http://voxtv.dynns.com:8000/get.php?username=movies&password=movies&type=m3u
+ 
+http://voxtv.dynns.com:8000/get.php?username=pakistan&password=pakistan&type=m3u
+ 
+http://iptv.csvix.net:8080/get.php?username=joni&password=12345&type=m3u
+ 
+http://194.88.107.140:6204/get.php?username=AFEOdvNlBf&password=3zrFg7Q96M&type=m3u
+ 
+http://iptvnet-tv.ddns.net:8000/get.php?username=slobodan_pobra&password=Y9Z0vXGHJx&type=m3u
+ 
+http://cdn.miip.tv:80/get.php?username=Damian&password=123456&type=m3u
+ 
+@king_network7
