@@ -1,4 +1,5 @@
 @king_network7
+ https://pastebin.com/u/dalton10
  
 HIT | http://aresera.ddns.net:6923/get.php?username=dcgbdinQlM&password=XnKKmsGk5e&type=m3u | Active | 10/17/2018 - 09/17/2019 | Max Connections: 1 | 0 Connected | Real Url: ares.dominium.tv | Time Zone: Europe/Rome
  
