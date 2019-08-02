@@ -1,0 +1,2033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3ABD:514:13E:820000:0:0:0:</location>
+			<title>TVP 1 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:C22:1E78:71:820000:0:0:0:</location>
+			<title>TVP 2 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:1138:2AF8:13E:820000:0:0:0:</location>
+			<title>TVP HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:132B:33F4:13E:820000:0:0:0:</location>
+			<title>TVP Polonia</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:113B:2AF8:13E:820000:0:0:0:</location>
+			<title>TVP 3</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3D5C:2C88:13E:820000:0:0:0:</location>
+			<title>TVP Seriale</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:19:DB1:2D50:13E:820000:0:0:0:</location>
+			<title>TVP Sport HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3D67:2C88:13E:820000:0:0:0</location>
+			<title>TVP Historia </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3D59:2C88:13E:820000:0:0:0:</location>
+			<title>TVP Kultura</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:4288:2BC0:13E:820000:0:0:0:</location>
+			<title>TVP Rozrywka</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:1139:2AF8:13E:820000:0:0:0:</location>
+			<title>TVP Info HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3D5F:2C88:13E:820000:0:0:0</location>
+			<title>TVP ABC</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1F:12C7:2E7C:13E:820000:0:0:0</location>
+			<title>TVP 4K ??</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3391:3390:71:820000:0:0:0:</location>
+			<title>Polsat HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:339A:3390:71:820000:0:0:0:</location>
+			<title>Polsat 2 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:332D:3390:71:820000:0:0:0:</location>
+			<title>Polsat</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:339B:3390:71:820000:0:0:0</location>
+			<title>Super Polsat HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3398:3390:71:820000:0:0:0:</location>
+			<title>Polsat Film HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3334:3390:71:820000:0:0:0</location>
+			<title>Polsat Film </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3392:3390:71:820000:0:0:0:</location>
+			<title>Polsat Play HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:1C85:1CE8:71:820000:0:0:0:</location>
+			<title>Polsat Romans</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:C1E:1E78:71:820000:0:0:0:</location>
+			<title>Polsat Sport HD </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:16:3330:3390:71:820000:0:0:0:</location>
+			<title>Polsat Sport</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:C24:1E78:71:820000:0:0:0:</location>
+			<title>Polsat Sport Extra HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:16:3331:3390:71:820000:0:0:0:</location>
+			<title>Polsat Sport Extra</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:16:2911:1EDC:71:820000:0:0:0:</location>
+			<title>Polsat Sport Fight HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:2913:1EDC:71:820000:0:0:0</location>
+			<title>Polsat Sport News HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:16:1CCD:1CE8:71:820000:0:0:0:</location>
+			<title>Polsat Viasat Nature</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:19:1CCA:1CE8:71:820000:0:0:0:</location>
+			<title>Polsat Viasat Explore HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:C20:1E78:71:820000:0:0:0:</location>
+			<title>Polsat Viasat History HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:C23:1E78:71:820000:0:0:0</location>
+			<title>Polsat Doku HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3396:3390:71:820000:0:0:0:</location>
+			<title>Polsat Cafe HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3399:3390:71:820000:0:0:0:</location>
+			<title>Polsat News HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:16:3333:3390:71:820000:0:0:0:</location>
+			<title>Polsat News 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3DCD:640:13E:820000:0:0:0:</location>
+			<title>TVN HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:12DF:2E7C:13E:820000:0:0:0</location>
+			<title>TVN</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:12E3:2E7C:13E:820000:0:0:0</location>
+			<title>TVN Turbo</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3DD0:640:13E:820000:0:0:0:</location>
+			<title>TVN Turbo HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3DD3:640:13E:820000:0:0:0:</location>
+			<title>TVN 7 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:12E1:2E7C:13E:820000:0:0:0</location>
+			<title>TVN 7</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3DD6:640:13E:820000:0:0:0:</location>
+			<title>TVN Fabuła HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:19:10EA:3E8:13E:820000:0:0:0:</location>
+			<title>TVN 24 Biznes i Swiat HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:12E4:2E7C:13E:820000:0:0:0</location>
+			<title>TVN Style</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3DCE:640:13E:820000:0:0:0:</location>
+			<title>TVN Style HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3DD2:640:13E:820000:0:0:0</location>
+			<title>TVN 24 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:12E0:2E7C:13E:820000:0:0:0</location>
+			<title>TVN 24</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3393:3390:71:820000:0:0:0:</location>
+			<title>TV 4 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:332F:3390:71:820000:0:0:0:</location>
+			<title>TV 4</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:4292:2BC0:13E:820000:0:0:0</location>
+			<title>TV 6 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3DD7:640:13E:820000:0:0:0:</location>
+			<title>TTV HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3D66:2C88:13E:820000:0:0:0:</location>
+			<title>TV Puls HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:16:10E3:3E8:13E:820000:0:0:0:</location>
+			<title>Puls 2</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:429E:2BC0:13E:820000:0:0:0</location>
+			<title>Nowa TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3D5A:2C88:13E:820000:0:0:0</location>
+			<title>WP</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:4287:2BC0:13E:820000:0:0:0</location>
+			<title>Metro</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:4291:2BC0:13E:820000:0:0:0</location>
+			<title>Zoom TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:423B:3DB8:13E:820000:0:0:0:</location>
+			<title>Tele 5</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:423C:3DB8:13E:820000:0:0:0:</location>
+			<title>Polonia 1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:16:10E4:3E8:13E:820000:0:0:0:</location>
+			<title>NTL</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3D58:2C88:13E:820000:0:0:0:</location>
+			<title>TVS</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>59</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:1CBA:1CE8:71:820000:0:0:0:</location>
+			<title>ATM Rozrywka</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>60</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:DFA:1AF4:FBFF:820000:0:0:0</location>
+			<title>Fashion TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>61</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:43A3:2CEC:13E:820000:0:0:0</location>
+			<title>Fashion</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>62</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:32DC:190:13E:820000:0:0:0:</location>
+			<title>Canal+ HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>63</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:13ED:5DC:13E:820000:0:0:0:</location>
+			<title>Canal+1 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>64</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3779:44C:13E:820000:0:0:0:</location>
+			<title>Canal+ Film HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>65</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:19:377B:44C:13E:820000:0:0:0:</location>
+			<title>Canal+ Family HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>66</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:19:3782:44C:13E:820000:0:0:0:</location>
+			<title>Canal+ Seriale HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>67</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1F:116F:2AF8:13E:820000:0:0:0</location>
+			<title>CANAL+ 4K ULTRA HD ??</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>68</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:32CD:190:13E:820000:0:0:0</location>
+			<title>Canal+ NOW</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>69</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:19:290E:1EDC:71:820000:0:0:0:</location>
+			<title>HBO HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>70</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:E09:2D50:13E:820000:0:0:0:</location>
+			<title>HBO2 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>71</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:E0A:2D50:13E:820000:0:0:0:</location>
+			<title>HBO3 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>72</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:19:1136:2AF8:13E:820000:0:0:0:</location>
+			<title>Cinemax HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>73</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:C26:1E78:71:820000:0:0:0:</location>
+			<title>Cinemax 2 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>74</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3D61:2C88:13E:820000:0:0:0:</location>
+			<title>Kino TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>75</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3D68:2C88:13E:820000:0:0:0</location>
+			<title>Filmbox Extra </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>76</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3D62:2C88:13E:820000:0:0:0:</location>
+			<title>Filmbox Family</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>77</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3D60:2C88:13E:820000:0:0:0:</location>
+			<title>Filmbox Premium HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>78</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3D65:2C88:13E:820000:0:0:0:</location>
+			<title>Filmbox Action</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>79</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:428A:2BC0:13E:820000:0:0:0:</location>
+			<title>Filmbox Arthouse</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>80</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:C27:1E78:71:820000:0:0:0:</location>
+			<title>Fox HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>81</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:13F4:5DC:13E:820000:0:0:0:</location>
+			<title>Fox</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>82</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:1CCF:1CE8:71:820000:0:0:0</location>
+			<title>Fox Comedy </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>83</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:C1F:1E78:71:820000:0:0:0:</location>
+			<title>Fox Comedy HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>84</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:1C96:1CE8:71:820000:0:0:0:</location>
+			<title>AXN</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>85</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:C25:1E78:71:820000:0:0:0:</location>
+			<title>AXN HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>86</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3D5D:2C88:13E:820000:0:0:0:</location>
+			<title>AXN Spin HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>87</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:1C86:1CE8:71:820000:0:0:0:</location>
+			<title>AXN White</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>88</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:1C87:1CE8:71:820000:0:0:0:</location>
+			<title>AXN Black</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>89</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3E2E:2EE0:13E:820000:0:0:0:</location>
+			<title>Scifi Universal</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>90</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3E20:2EE0:13E:820000:0:0:0</location>
+			<title>SciFi HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>91</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:19:3781:44C:13E:820000:0:0:0:</location>
+			<title>Ale kino+ HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>92</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3AB7:514:13E:820000:0:0:0:</location>
+			<title>AMC HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>93</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:2905:1EDC:71:820000:0:0:0:</location>
+			<title>TNT HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>94</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:1CBF:1CE8:71:820000:0:0:0:</location>
+			<title>TNT</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>95</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:D:1964:13E:820000:0:0:0</location>
+			<title>Paramount Channel HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>96</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:290B:1EDC:71:820000:0:0:0:</location>
+			<title>CBS Europa HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>97</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:4282:2BC0:13E:820000:0:0:0</location>
+			<title>CBS Action</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>98</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:4290:2BC0:13E:820000:0:0:0</location>
+			<title>Epic Drama HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>99</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:C:1964:13E:820000:0:0:0</location>
+			<title>Comedy Central HD </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>100</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:10:1964:13E:820000:0:0:0</location>
+			<title>Comedy Central Family HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>101</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:1135:2AF8:13E:820000:0:0:0:</location>
+			<title>Kino Polska</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>102</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3DD9:640:13E:820000:0:0:0</location>
+			<title>Food Network HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>103</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:427B:2BC0:13E:820000:0:0:0:</location>
+			<title>Stopklatka TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>104</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3E26:2EE0:13E:820000:0:0:0:</location>
+			<title>13 Ulica HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>105</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3E1D:2EE0:13E:820000:0:0:0:</location>
+			<title>Sundance HD </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>106</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3ABE:514:13E:820000:0:0:0</location>
+			<title>Romance TV HD </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>107</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:4240:3DB8:13E:820000:0:0:0:</location>
+			<title>Novela TV </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>108</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:32DE:190:13E:820000:0:0:0:</location>
+			<title>Canal+ Sport HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>109</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:13EE:5DC:13E:820000:0:0:0:</location>
+			<title>Canal+ Sport 2 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>110</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3AB9:514:13E:820000:0:0:0:</location>
+			<title>nSport HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>111</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:13F3:5DC:13E:820000:0:0:0:</location>
+			<title>Eleven Sports 1 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>112</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:13F5:5DC:13E:820000:0:0:0:</location>
+			<title>Eleven Sports 2 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>113</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:13F8:5DC:13E:820000:0:0:0:</location>
+			<title>Eleven Sports 3 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>114</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:32CE:190:13E:820000:0:0:0</location>
+			<title>Eleven Sports 4 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>115</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3E25:2EE0:13E:820000:0:0:0</location>
+			<title>Eurosport 1 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>116</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:1C8A:1CE8:71:820000:0:0:0</location>
+			<title>Eurosport 1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>117</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:290C:1EDC:71:820000:0:0:0</location>
+			<title>Eurosport 2 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>118</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:DAF:2D50:13E:820000:0:0:0</location>
+			<title>Sport Klub HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>119</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:13F1:5DC:13E:820000:0:0:0:</location>
+			<title>Fight Klub HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>120</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:19:290A:1EDC:71:820000:0:0:0:</location>
+			<title>Extreme Sports HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>121</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3E24:2EE0:13E:820000:0:0:0:</location>
+			<title>Fightbox HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>122</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3E23:2EE0:13E:820000:0:0:0</location>
+			<title>Golf Channel HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>123</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3E30:2EE0:13E:820000:0:0:0</location>
+			<title>PPV KSW</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>124</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3A99:514:13E:820000:0:0:0:</location>
+			<title>Canal+ Discovery HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>125</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:19:3AB8:514:13E:820000:0:0:0:</location>
+			<title>Discovery  Channel HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>126</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:16:DB2:2D50:13E:820000:0:0:0:</location>
+			<title>Discovery Historia</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>127</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:16:3D56:2C88:13E:820000:0:0:0:</location>
+			<title>Discovery Life HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>128</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:19:290D:1EDC:71:820000:0:0:0:</location>
+			<title>Discovery Science HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>129</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:19:3A9C:514:13E:820000:0:0:0:</location>
+			<title>Discovery Turbo Xtra HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>130</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:19:3A9B:514:13E:820000:0:0:0:</location>
+			<title>ID HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>131</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:19:32DF:190:13E:820000:0:0:0:</location>
+			<title>National Geographic Channel HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>132</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3D5E:2C88:13E:820000:0:0:0:</location>
+			<title>National Geographic Channel</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>133</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:19:2907:1EDC:71:820000:0:0:0:</location>
+			<title>National Geographic People HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>134</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:1137:2AF8:13E:820000:0:0:0</location>
+			<title>National Geographic Wild HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>135</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:1C8B:1CE8:71:820000:0:0:0:</location>
+			<title>National Geographic Wild</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>136</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:C2F:1E78:71:820000:0:0:0:</location>
+			<title>History HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>137</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:19:3E22:2EE0:13E:820000:0:0:0:</location>
+			<title>H2 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>138</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:4284:2BC0:13E:820000:0:0:0</location>
+			<title>History</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>139</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:19:10E9:3E8:13E:820000:0:0:0:</location>
+			<title>Adventure HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>140</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:12C6:2E7C:13E:820000:0:0:0</location>
+			<title>Animal Planet HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>141</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:DB0:2D50:13E:820000:0:0:0</location>
+			<title>Animal Planet HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>142</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:1C9D:332C:13E:820000:0:0:0</location>
+			<title>Crime and Investigation Polsat </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>143</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:1C9C:332C:13E:820000:0:0:0</location>
+			<title>Crime and Investigation </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>144</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:19:377E:44C:13E:820000:0:0:0:</location>
+			<title>Planete+ HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>145</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3E27:2EE0:13E:820000:0:0:0:</location>
+			<title>Lifetime HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>146</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:37B1:44C:13E:820000:0:0:0</location>
+			<title>Kuchnia+ HD </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>147</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:13EF:5DC:13E:820000:0:0:0</location>
+			<title>Domo+ HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>148</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3E21:2EE0:13E:820000:0:0:0:</location>
+			<title>TLC HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>149</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:19:E08:2D50:13E:820000:0:0:0:</location>
+			<title>BBC Earth HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>150</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:7DB:22C4:13E:820000:0:0:0:</location>
+			<title>BBC Lifestyle</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>151</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:E06:2D50:13E:820000:0:0:0</location>
+			<title>BBC HD??</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>152</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:19:7D6:22C4:13E:820000:0:0:0:</location>
+			<title>BBC Brit HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>153</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:16:423E:3DB8:13E:820000:0:0:0:</location>
+			<title>Water Planet</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>154</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:12C3:2E7C:13E:820000:0:0:0</location>
+			<title>Motowizja HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>155</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:4277:2BC0:13E:820000:0:0:0:</location>
+			<title>Wellbeing Network HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>156</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:10E1:3E8:13E:820000:0:0:0</location>
+			<title>Fokus TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>157</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:19:3DD8:640:13E:820000:0:0:0</location>
+			<title>Travel Channel HD </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>158</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:12E2:2E7C:13E:820000:0:0:0</location>
+			<title>HGTV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>159</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:19:10EB:3E8:13E:820000:0:0:0</location>
+			<title>HGTV HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>160</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3E1E:2EE0:13E:820000:0:0:0</location>
+			<title>E!</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>161</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:DB7:2D50:13E:820000:0:0:0</location>
+			<title>Active Family</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>162</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:35EF:1388:13E:820000:0:0:0:</location>
+			<title>TBN Polska</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>163</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3A9C:514:13E:820000:0:0:0</location>
+			<title>DTX HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>164</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:4280:2BC0:13E:820000:0:0:0</location>
+			<title>Da Vini Learning</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>165</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:16:1CBE:1CE8:71:820000:0:0:0:</location>
+			<title>Superstacja</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>166</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:4289:2BC0:13E:820000:0:0:0</location>
+			<title>TV Republika</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>167</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:1C8D:1CE8:71:820000:0:0:0</location>
+			<title>TV Okazje</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>168</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:10FC:3E8:13E:820000:0:0:0</location>
+			<title>MANGO 24</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>169</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:4279:2BC0:13E:820000:0:0:0</location>
+			<title>wPolsce.pl</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>170</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:2906:1EDC:71:820000:0:0:0:</location>
+			<title>Cartoon Network HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>171</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:4295:2BC0:13E:820000:0:0:0</location>
+			<title>Boomerang HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>172</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:1CB6:1CE8:71:820000:0:0:0</location>
+			<title>Disney Channel HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>173</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:2938:1EDC:71:820000:0:0:0</location>
+			<title>Disney Junior</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>174</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:16:1CB5:1CE8:71:820000:0:0:0:</location>
+			<title>Disney XD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>175</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:32E0:190:13E:820000:0:0:0</location>
+			<title>MiniMini+ HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>176</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3:1964:13E:820000:0:0:0</location>
+			<title>Nick Jr</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>177</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:9:1964:13E:820000:0:0:0</location>
+			<title>Nickelodeon</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>178</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:E:1964:13E:820000:0:0:0</location>
+			<title>Nicktoons HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>179</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:19:377D:44C:13E:820000:0:0:0</location>
+			<title>Teletoon+ HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>180</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:1CB7:1CE8:71:820000:0:0:0:</location>
+			<title>JimJam Polsat</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>181</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:7D9:22C4:13E:820000:0:0:0:</location>
+			<title>BBC CBeebies</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>182</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:1CB8:1CE8:71:820000:0:0:0</location>
+			<title>Test B</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>183</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:F:1964:13E:820000:0:0:0</location>
+			<title>MTV Polska HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>184</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:19:1:1964:13E:820000:0:0:0</location>
+			<title>MTV Live HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>185</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:1CB9:1CE8:71:820000:0:0:0:</location>
+			<title>MTV Rocks</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>186</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:428D:2BC0:13E:820000:0:0:0:</location>
+			<title>4Fun TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>187</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:428F:2BC0:13E:820000:0:0:0:</location>
+			<title>4Fun Fit and Dance</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>188</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:428E:2BC0:13E:820000:0:0:0:</location>
+			<title>4Fun Hits</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>189</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:429C:2BC0:13E:820000:0:0:0</location>
+			<title>ESKA TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>190</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:DAE:2D50:13E:820000:0:0:0:</location>
+			<title>Kino Polska Muzyka</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>191</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:429A:2BC0:13E:820000:0:0:0</location>
+			<title>Polo TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>192</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:427F:2BC0:13E:820000:0:0:0</location>
+			<title>Stars TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>193</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:16:10E7:3E8:13E:820000:0:0:0:</location>
+			<title>POWER TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>194</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3D57:2C88:13E:820000:0:0:0:</location>
+			<title>VOX Music TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>195</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:1C8C:1CE8:71:820000:0:0:0:</location>
+			<title>Disco Polo Music</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>196</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:DB6:2D50:13E:820000:0:0:0:</location>
+			<title>TRACE TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>197</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:8:1964:13E:820000:0:0:0</location>
+			<title>VH1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>198</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:29E5:3CF0:13E:820000:0:0:0</location>
+			<title>MEZZO</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>199</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:429B:2BC0:13E:820000:0:0:0</location>
+			<title>ESKA TV Ekstra</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>200</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:4293:2BC0:13E:820000:0:0:0</location>
+			<title>Polsat Music HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>201</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3D63:2C88:13E:820000:0:0:0</location>
+			<title>Eska Rock TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>202</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:10DD:3E8:13E:820000:0:0:0</location>
+			<title>NUTA TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>203</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:16:10E8:3E8:13E:820000:0:0:0</location>
+			<title>TO!TV/EZOTV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>204</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:3F:1964:13E:820000:0:0:0</location>
+			<title>VOD 205</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>205</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:40:1964:13E:820000:0:0:0</location>
+			<title>VOD 206</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>206</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:41:1964:13E:820000:0:0:0</location>
+			<title>VOD 207</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>207</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:42:1964:13E:820000:0:0:0</location>
+			<title>VOD 208</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>208</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:DB3:2D50:13E:820000:0:0:0:</location>
+			<title>Zest TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>209</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:4224:3DB8:13E:820000:0:0:0:</location>
+			<title>Redlight HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>210</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:4205:2F44:13E:820000:0:0:0:</location>
+			<title>Dorcel TV HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>211</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:4225:3DB8:13E:820000:0:0:0:</location>
+			<title>Hustler HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>212</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:1D25:2FA8:13E:820000:0:0:0</location>
+			<title>Bazzers TV Europe</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>213</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:4222:3DB8:13E:820000:0:0:0</location>
+			<title>PRIVATE TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>214</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:1D5:26AC:13F:820000:0:0:0</location>
+			<title>XXL PL</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>215</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:1D4:26AC:13F:820000:0:0:0</location>
+			<title>XXL</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>216</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:35C6:1388:13E:820000:0:0:0</location>
+			<title>CENTOXCENTO TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>217</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:35C0:1388:13E:820000:0:0:0</location>
+			<title>SEXTOSENSO</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>218</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:35D8:1388:13E:820000:0:0:0</location>
+			<title>Pink O TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>219</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:35C7:1388:13E:820000:0:0:0</location>
+			<title>PASSIONXXX</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>220</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:1F45:319C:13E:820000:0:0:0</location>
+			<title>VIVID RED HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>221</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:35C3:1388:13E:820000:0:0:0</location>
+			<title>SCT</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>222</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:35C1:1388:13E:820000:0:0:0</location>
+			<title>DUSK TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>223</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>http://93.107.185.110:8001/1:0:1:35C9:1388:13E:820000:0:0:0</location>
+			<title>LIVECHANNEL</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>224</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+		<vlc:item tid="45"/>
+		<vlc:item tid="46"/>
+		<vlc:item tid="47"/>
+		<vlc:item tid="48"/>
+		<vlc:item tid="49"/>
+		<vlc:item tid="50"/>
+		<vlc:item tid="51"/>
+		<vlc:item tid="52"/>
+		<vlc:item tid="53"/>
+		<vlc:item tid="54"/>
+		<vlc:item tid="55"/>
+		<vlc:item tid="56"/>
+		<vlc:item tid="57"/>
+		<vlc:item tid="58"/>
+		<vlc:item tid="59"/>
+		<vlc:item tid="60"/>
+		<vlc:item tid="61"/>
+		<vlc:item tid="62"/>
+		<vlc:item tid="63"/>
+		<vlc:item tid="64"/>
+		<vlc:item tid="65"/>
+		<vlc:item tid="66"/>
+		<vlc:item tid="67"/>
+		<vlc:item tid="68"/>
+		<vlc:item tid="69"/>
+		<vlc:item tid="70"/>
+		<vlc:item tid="71"/>
+		<vlc:item tid="72"/>
+		<vlc:item tid="73"/>
+		<vlc:item tid="74"/>
+		<vlc:item tid="75"/>
+		<vlc:item tid="76"/>
+		<vlc:item tid="77"/>
+		<vlc:item tid="78"/>
+		<vlc:item tid="79"/>
+		<vlc:item tid="80"/>
+		<vlc:item tid="81"/>
+		<vlc:item tid="82"/>
+		<vlc:item tid="83"/>
+		<vlc:item tid="84"/>
+		<vlc:item tid="85"/>
+		<vlc:item tid="86"/>
+		<vlc:item tid="87"/>
+		<vlc:item tid="88"/>
+		<vlc:item tid="89"/>
+		<vlc:item tid="90"/>
+		<vlc:item tid="91"/>
+		<vlc:item tid="92"/>
+		<vlc:item tid="93"/>
+		<vlc:item tid="94"/>
+		<vlc:item tid="95"/>
+		<vlc:item tid="96"/>
+		<vlc:item tid="97"/>
+		<vlc:item tid="98"/>
+		<vlc:item tid="99"/>
+		<vlc:item tid="100"/>
+		<vlc:item tid="101"/>
+		<vlc:item tid="102"/>
+		<vlc:item tid="103"/>
+		<vlc:item tid="104"/>
+		<vlc:item tid="105"/>
+		<vlc:item tid="106"/>
+		<vlc:item tid="107"/>
+		<vlc:item tid="108"/>
+		<vlc:item tid="109"/>
+		<vlc:item tid="110"/>
+		<vlc:item tid="111"/>
+		<vlc:item tid="112"/>
+		<vlc:item tid="113"/>
+		<vlc:item tid="114"/>
+		<vlc:item tid="115"/>
+		<vlc:item tid="116"/>
+		<vlc:item tid="117"/>
+		<vlc:item tid="118"/>
+		<vlc:item tid="119"/>
+		<vlc:item tid="120"/>
+		<vlc:item tid="121"/>
+		<vlc:item tid="122"/>
+		<vlc:item tid="123"/>
+		<vlc:item tid="124"/>
+		<vlc:item tid="125"/>
+		<vlc:item tid="126"/>
+		<vlc:item tid="127"/>
+		<vlc:item tid="128"/>
+		<vlc:item tid="129"/>
+		<vlc:item tid="130"/>
+		<vlc:item tid="131"/>
+		<vlc:item tid="132"/>
+		<vlc:item tid="133"/>
+		<vlc:item tid="134"/>
+		<vlc:item tid="135"/>
+		<vlc:item tid="136"/>
+		<vlc:item tid="137"/>
+		<vlc:item tid="138"/>
+		<vlc:item tid="139"/>
+		<vlc:item tid="140"/>
+		<vlc:item tid="141"/>
+		<vlc:item tid="142"/>
+		<vlc:item tid="143"/>
+		<vlc:item tid="144"/>
+		<vlc:item tid="145"/>
+		<vlc:item tid="146"/>
+		<vlc:item tid="147"/>
+		<vlc:item tid="148"/>
+		<vlc:item tid="149"/>
+		<vlc:item tid="150"/>
+		<vlc:item tid="151"/>
+		<vlc:item tid="152"/>
+		<vlc:item tid="153"/>
+		<vlc:item tid="154"/>
+		<vlc:item tid="155"/>
+		<vlc:item tid="156"/>
+		<vlc:item tid="157"/>
+		<vlc:item tid="158"/>
+		<vlc:item tid="159"/>
+		<vlc:item tid="160"/>
+		<vlc:item tid="161"/>
+		<vlc:item tid="162"/>
+		<vlc:item tid="163"/>
+		<vlc:item tid="164"/>
+		<vlc:item tid="165"/>
+		<vlc:item tid="166"/>
+		<vlc:item tid="167"/>
+		<vlc:item tid="168"/>
+		<vlc:item tid="169"/>
+		<vlc:item tid="170"/>
+		<vlc:item tid="171"/>
+		<vlc:item tid="172"/>
+		<vlc:item tid="173"/>
+		<vlc:item tid="174"/>
+		<vlc:item tid="175"/>
+		<vlc:item tid="176"/>
+		<vlc:item tid="177"/>
+		<vlc:item tid="178"/>
+		<vlc:item tid="179"/>
+		<vlc:item tid="180"/>
+		<vlc:item tid="181"/>
+		<vlc:item tid="182"/>
+		<vlc:item tid="183"/>
+		<vlc:item tid="184"/>
+		<vlc:item tid="185"/>
+		<vlc:item tid="186"/>
+		<vlc:item tid="187"/>
+		<vlc:item tid="188"/>
+		<vlc:item tid="189"/>
+		<vlc:item tid="190"/>
+		<vlc:item tid="191"/>
+		<vlc:item tid="192"/>
+		<vlc:item tid="193"/>
+		<vlc:item tid="194"/>
+		<vlc:item tid="195"/>
+		<vlc:item tid="196"/>
+		<vlc:item tid="197"/>
+		<vlc:item tid="198"/>
+		<vlc:item tid="199"/>
+		<vlc:item tid="200"/>
+		<vlc:item tid="201"/>
+		<vlc:item tid="202"/>
+		<vlc:item tid="203"/>
+		<vlc:item tid="204"/>
+		<vlc:item tid="205"/>
+		<vlc:item tid="206"/>
+		<vlc:item tid="207"/>
+		<vlc:item tid="208"/>
+		<vlc:item tid="209"/>
+		<vlc:item tid="210"/>
+		<vlc:item tid="211"/>
+		<vlc:item tid="212"/>
+		<vlc:item tid="213"/>
+		<vlc:item tid="214"/>
+		<vlc:item tid="215"/>
+		<vlc:item tid="216"/>
+		<vlc:item tid="217"/>
+		<vlc:item tid="218"/>
+		<vlc:item tid="219"/>
+		<vlc:item tid="220"/>
+		<vlc:item tid="221"/>
+		<vlc:item tid="222"/>
+		<vlc:item tid="223"/>
+		<vlc:item tid="224"/>
+	</extension>
+</playlist>
