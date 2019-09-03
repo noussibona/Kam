@@ -2781,3 +2781,5 @@ http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_LI
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NJ
 #EXTINF:-1 tvg-logo="https://ftpcontent.worldnow.com/professionalservices/clients/news12/news12wc/images/news12wc-logo.png" group-title="News 12 Regional(USA)", News 12 Westchester Weather
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
+#EXTINF:-1 tvg-logo="https://static.sangatv.com/images/channels/logo/04e05360-f309-11e8-a5d2-d10874e2d262.png" group-title="Cameroun", Equinox TV
+https://edge-08.sangatv.com/origin-channels/amlst:equinoxe-tv/chunklist_w1386225706_b800000.m3u8
