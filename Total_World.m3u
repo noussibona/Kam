@@ -2108,3 +2108,245 @@ http://s1.xtream-livetv.com:25461/FR_JMEJD74Q/VG4F2MXDM4/1162
 http://s1.xtream-livetv.com:25461/FR_JMEJD74Q/VG4F2MXDM4/4178
 #EXTINF:0 tvg-id="ext" group-title="Canadiennes",CA: LIFE TV
 http://s1.xtream-livetv.com:25461/FR_JMEJD74Q/VG4F2MXDM4/4177
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TDT 2", La Sexta HD
+http://38.91.107.64:8080/TV2265
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TDT 2", Antena 3 HD
+http://38.91.107.64:8080/TV3956
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TDT 2", Telecinco HD
+http://38.91.107.64:8080/TV4763
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TDT 2", La Sexta HD
+http://38.91.107.64:8080/TV4760
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", FOX HD
+http://38.91.107.64:8080/TV2266
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", M. Acción HD
+http://38.91.107.64:8080/TV2268
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", M. Drama HD
+http://38.91.107.64:8080/TV2269
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", Hollywood HD
+http://38.91.107.64:8080/TV2270
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", M. Golf HD
+http://38.91.107.64:8080/TV2272
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", NatGeo HD
+http://38.91.107.64:8080/TV2275
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", M. LaLiga 1 HD
+http://38.91.107.64:8080/TV2276
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", M. Deportes HD
+http://38.91.107.64:8080/TV2277
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", Calle 13 HD
+http://38.91.107.64:8080/TV2278
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", LaLigaTV Bar HD
+http://38.91.107.64:8080/TV2279
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", SYFY HD
+http://38.91.107.64:8080/TV2281
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", M. LaLiga HD
+http://38.91.107.64:8080/TV2282
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", CineDoc&Roll HD
+http://38.91.107.64:8080/TV2283
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TDT 2", Cuatro HD
+http://38.91.107.64:8080/TV2284
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", TNT HD
+http://38.91.107.64:8080/TV2285
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", Fox Life HD
+http://38.91.107.64:8080/TV2286
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", AXN White HD
+http://38.91.107.64:8080/TV2291
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TDT 2", La 1 HD
+http://38.91.107.64:8080/TV2294
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", Movistar Test
+http://38.91.107.64:8080/TV4761
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", AXN HD
+http://38.91.107.64:8080/TV2577
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", M. Liga Campeones
+http://38.91.107.64:8080/TV2578
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", M. Seriesmania
+http://38.91.107.64:8080/TV2579
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", COSMO HD
+http://38.91.107.64:8080/TV2580
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", M. Formula 1
+http://38.91.107.64:8080/TV2582
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", M. Test HD
+http://38.91.107.64:8080/TV2583
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", AMC HD
+http://38.91.107.64:8080/TV2584
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TDT 2", Antena 3 HD
+http://38.91.107.64:8080/TV2585
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", Nikelodeon HD
+http://38.91.107.64:8080/TV2586
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", Mezzo Live HD
+http://38.91.107.64:8080/TV2587
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", Eurosport 1 HD
+http://38.91.107.64:8080/TV2588
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", M. Toros HD
+http://38.91.107.64:8080/TV2589
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", M. Series HD
+http://38.91.107.64:8080/TV2590
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", TCM HD
+http://38.91.107.64:8080/TV2591
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", NatGeo Wild HD
+http://38.91.107.64:8080/TV2592
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", Disney Channel HD
+http://38.91.107.64:8080/TV2593
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", #0 HD
+http://38.91.107.64:8080/TV2594
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", Caza y Pesca HD
+http://38.91.107.64:8080/TV2595
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", Viajar HD
+http://38.91.107.64:8080/TV2596
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", M. Estrenos HD
+http://38.91.107.64:8080/TV2597
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", M. Formula 1 HD (backup)
+http://38.91.107.64:8080/TV4857
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", #Vamos HD
+http://38.91.107.64:8080/TV2598
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", Por identificar
+http://38.91.107.64:8080/TV2603
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movistar HD 2", Identi (audio esp)
+http://38.91.107.64:8080/TV2606
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Dep. Internacional", BeinSports HD (eng)
+http://38.91.107.64:8080/TV3945
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Dep. Internacional", BeinSports Ñ HD (esp)
+http://38.91.107.64:8080/TV3946
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Dep. Internacional", Por identificar
+http://38.91.107.64:8080/TV3611
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Dep. Internacional", BeinSports 1 HD (fr)
+http://38.91.107.64:8080/TV4014
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Dep. Internacional", BeinSports 2 HD (fr)
+http://38.91.107.64:8080/TV4015
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Dep. Internacional", BeinSports 3 HD (fr)
+http://38.91.107.64:8080/TV4016
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Dep. Internacional", BeinSports 1 HD (moro)
+http://38.91.107.64:8080/TV4001
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Dep. Internacional", BeinSports 2 HD (moro)
+http://38.91.107.64:8080/TV4002
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Dep. Internacional", BeinSports 3 HD (moro)
+http://38.91.107.64:8080/TV4003
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Dep. Internacional", BeinSports 4 HD (moro)
+http://38.91.107.64:8080/TV4004
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Dep. Internacional", BeinSports 5 HD (moro)
+http://38.91.107.64:8080/TV4005
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Dep. Internacional", BeinSports 6 HD (moro)
+http://38.91.107.64:8080/TV4006
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Dep. Internacional", BeinSports 7 HD (moro)
+http://38.91.107.64:8080/TV4007
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Dep. Internacional", BeinSports 8 HD (moro)
+http://38.91.107.64:8080/TV4008
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Dep. Internacional", BeinSports 9 (moro)
+http://38.91.107.64:8080/TV4009
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Dep. Internacional", BeinSports 11 HD (eng)
+http://38.91.107.64:8080/TV4011
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Dep. Internacional", BeinSports 12 HD (eng)
+http://38.91.107.64:8080/TV4012
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Dep. Internacional", BeinSports 13 HD (eng)
+http://38.91.107.64:8080/TV4013
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Dep. Internacional", SkySports Racing SD
+http://38.91.107.64:8080/TV5416
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Dep. Internacional", SkySports F1 FHD
+http://38.91.107.64:8080/TV5554
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Dep. Internacional", SkySports Mix FHD
+http://38.91.107.64:8080/TV5558
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Dep. Internacional", SkySports News FHD
+http://38.91.107.64:8080/TV5559
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Dep. Internacional", Sin identificar FHD
+http://38.91.107.64:8080/TV5560
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Dep. Internacional", Primer Sports 1 FHD
+http://38.91.107.64:8080/TV5564
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Dep. Internacional", Sin identificar FHD
+http://38.91.107.64:8080/TV5583
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", Fox Sports HD
+http://38.91.107.64:8080/TV3895
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", Fox Sports 2 HD
+http://38.91.107.64:8080/TV3896
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", Fox Sports 3 HD
+http://38.91.107.64:8080/TV3899
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", Fox Sports 3 HD (back)
+http://38.91.107.64:8080/TV3900
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", ESPN+ HD
+http://38.91.107.64:8080/TV3342
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", Claro Sports HD
+http://38.91.107.64:8080/TV3438
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", Fox Movies HD
+http://38.91.107.64:8080/TV3709
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", ¡HOLA!TV HD
+http://38.91.107.64:8080/TV3726
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", A3SeriesInt
+http://38.91.107.64:8080/TV3727
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", Por identificar
+http://38.91.107.64:8080/TV3710
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", Por identificar
+http://38.91.107.64:8080/TV3743
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", CNN Esp
+http://38.91.107.64:8080/TV3753
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", Pasiones HD
+http://38.91.107.64:8080/TV3758
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", FashionTV HE
+http://38.91.107.64:8080/TV3769
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", Eltrece HD
+http://38.91.107.64:8080/TV3783
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", TyC Sports HD
+http://38.91.107.64:8080/TV3788
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", TN HD
+http://38.91.107.64:8080/TV3789
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", TyC Sports HD (backup)
+http://38.91.107.64:8080/TV3790
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", LoveNature HD
+http://38.91.107.64:8080/TV3791
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", Sin identificar
+http://38.91.107.64:8080/TV3792
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", TCL HD
+http://38.91.107.64:8080/TV3801
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", Discovery HD
+http://38.91.107.64:8080/TV3802
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", Animal Planet HD
+http://38.91.107.64:8080/TV3803
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", Discovery H&H
+http://38.91.107.64:8080/TV3804
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", Sin identificar
+http://38.91.107.64:8080/TV3833
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", Sin identificar
+http://38.91.107.64:8080/TV3834
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", RT
+http://38.91.107.64:8080/TV3838
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", TNT HD
+http://38.91.107.64:8080/TV3842
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", FX HD
+http://38.91.107.64:8080/TV3879
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", Sin identificar
+http://38.91.107.64:8080/TV3880
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", Unversal TV HD
+http://38.91.107.64:8080/TV3887
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", Universal HD
+http://38.91.107.64:8080/TV3888
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", Sin identificar
+http://38.91.107.64:8080/TV3889
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", Studion Universal HD
+http://38.91.107.64:8080/TV3891
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", SYFY HD
+http://38.91.107.64:8080/TV3892
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", Studio Universal HD
+http://38.91.107.64:8080/TV3893
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", Sin identificar
+http://38.91.107.64:8080/TV3901
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", Discovery Civilzation HD
+http://38.91.107.64:8080/TV3902
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", Sin identificar
+http://38.91.107.64:8080/TV3903
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", Discovery Kids
+http://38.91.107.64:8080/TV3905
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", Sin identificar
+http://38.91.107.64:8080/TV3906
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Latino HD", VME Kids HD
+http://38.91.107.64:8080/TV3983
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Porno", (DOUBTFUL) Channel 1532
+http://38.91.107.64:8080/TV1532
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Porno", (DOUBTFUL) Channel 1921
+http://38.91.107.64:8080/TV1921
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Porno", (DOUBTFUL) Channel 3681
+http://38.91.107.64:8080/TV3681
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Porno", (DOUBTFUL) Channel 3682
+http://38.91.107.64:8080/TV3682
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Porno", (DOUBTFUL) Channel 3683
+http://38.91.107.64:8080/TV3683
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Porno", Playboy HD ENG
+http://38.91.107.64:8080/TV3779
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="World", (World)
+http://playlist.topcam.me:25461/get.php?username=U4dhD66xUp&password=Xd1c7kBHtc&output=ts&type=m3u_plus
