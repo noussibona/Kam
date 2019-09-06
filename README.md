@@ -19,3 +19,7 @@ VIP Iptv
 https://pastebin.com/u/fatboysbarpatong
 World IPTB Best 
 https://pastebin.com/raw/YKHwjda3
+
+http://playlist.topcam.me:25461/get.php?username=McIs7pXZnI&password=s6NWpLM5iV&type=m3u&output=ts
+
+http://tv.sigma-net.co:6500/get.php?username=3XPSYx8psT&password=EGk0U7WuY9&type=m3u&output=ts
