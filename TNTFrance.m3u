@@ -843,3 +843,43 @@ http://188.35.9.11:2015
 http://188.35.9.11:21141/udp/214h
 #EXTINF:-1 ,Amedia Hit HD
 http://188.35.9.11:21131/udp/164g
+#EXTINF:-1,07 HD
+http://188.35.9.11:2007
+#EXTINF:-1,100 News
+http://188.35.9.11:21031/udp/041b
+#EXTINF:-1,Disney XD
+http://188.35.9.11:21031/udp/076b
+#EXTINF:-1,RTS Deux HD
+http://188.35.9.11:21031/udp/094b
+#EXTINF:-1,Amedia Premium HD
+http://188.35.9.11:21031/udp/035c
+#EXTINF:-1,Romance TV
+http://188.35.9.11:21031/udp/070c
+#EXTINF:-1,Calle 13 HD
+http://188.35.9.11:21031/udp/108c
+#EXTINF:-1,Sky Cinema Family HD
+http://188.35.9.11:21031/udp/064e
+#EXTINF:-1,Disney Junior HD
+http://188.35.9.11:21031/udp/078m
+#EXTINF:-1,TLC HD (RU)
+http://188.35.9.11:21031/udp/037n
+#EXTINF:-1,N/A
+http://188.35.9.11:21031/udp/055n
+#EXTINF:-1,Sky Cinema Action
+http://188.35.9.11:21031/udp/074n
+#EXTINF:-1,Rai Storia HD
+http://188.35.9.11:21031/udp/090n
+#EXTINF:-1,N24 DOKU Austria
+http://188.35.9.11:21031/udp/079q
+#EXTINF:-1,Deluxe Music
+http://188.35.9.11:21031/udp/082r
+#EXTINF:-1,Fashion HD
+http://188.35.9.11:21031/udp/048t
+#EXTINF:-1,DMAX Austria
+http://188.35.9.11:21031/udp/083t
+#EXTINF:-1,M4 Sport (Europa) HD
+http://188.35.9.11:21031/udp/103u
+#EXTINF:-1,Fashion One
+http://188.35.9.11:21031/udp/058v
+#EXTINF:-1,RTS Un HD
+http://188.35.9.11:21031/udp/093v
