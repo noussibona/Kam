@@ -755,3 +755,91 @@ http://92.51.131.28:8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/mono.m3u8
 #EXTINF:-1 ,Z Living USA
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/mono.m3u8
+#EXTINF:-1 ,CTC
+http://188.35.9.11:21101/udp/131p
+#EXTINF:-1 ,Filmbox family
+http://188.35.9.11:21081/udp/154w
+#EXTINF:-1 ,KIEV STB
+http://188.35.9.11:2002
+#EXTINF:-1 ,Шокирующее HD
+http://188.35.9.11:2021
+#EXTINF:-1 ,VIP Premiere HD
+http://188.35.9.11:2013
+#EXTINF:-1 ,History HD
+http://188.35.9.11:21121/udp/128c
+#EXTINF:-1 ,Music Vox TV
+http://188.35.9.11:21141/udp/154i
+#EXTINF:-1 ,WP
+http://188.35.9.11:21161/udp/225k
+#EXTINF:-1 ,Disney Junior
+http://188.35.9.11:21151/udp/191a
+#EXTINF:-1 ,Film Box Action
+http://188.35.9.11:21141/udp/146h
+#EXTINF:-1 ,Cinemax HD
+http://188.35.9.11:21131/udp/144y
+#EXTINF:-1 ,Nat Geo Wild HD
+http://188.35.9.11:21121/udp/126z
+#EXTINF:-1 ,BBC Brit HD
+http://188.35.9.11:21111/udp/162g
+#EXTINF:-1 ,AXN Spin HD
+http://188.35.9.11:21111/udp/114r
+#EXTINF:-1 ,Eurosport 2 HD Poland
+http://188.35.9.11:21151/udp/192c
+#EXTINF:-1 ,Discovery Science HD
+http://188.35.9.11:21151/udp/188k
+#EXTINF:-1 ,Nat Geo People HD
+http://188.35.9.11:21151/udp/186o
+#EXTINF:-1 ,TVP Info HD
+http://188.35.9.11:21081/udp/135i
+#EXTINF:-1 ,Polsat Sport HD
+http://188.35.9.11:21161/udp/172r
+#EXTINF:-1 ,HBO HD
+http://188.35.9.11:21151/udp/190z
+#EXTINF:-1 ,HBO 2 HD
+http://188.35.9.11:21151/udp/157a
+#EXTINF:-1 ,TVP Historia
+http://188.35.9.11:21111/udp/113k
+#EXTINF:-1 ,Otodom HD
+http://188.35.9.11:21161/udp/176z
+#EXTINF:-1 ,Cartoon Network HD
+http://188.35.9.11:21151/udp/185f
+#EXTINF:-1 ,Ex TV HD
+http://188.35.9.11:21151/udp/189r
+#EXTINF:-1 ,TNT HD
+http://188.35.9.11:21151/udp/184g
+#EXTINF:-1 ,Canal+ HD
+http://188.35.9.11:21141/udp/141c
+#EXTINF:-1 ,TVP 2 HD
+http://188.35.9.11:21131/udp/135g
+#EXTINF:-1 ,Cinemax 2 HD
+http://188.35.9.11:21121/udp/136y
+#EXTINF:-1 ,TVP abc
+http://188.35.9.11:21111/udp/115r
+#EXTINF:-1 ,Fox Comedy HD
+http://188.35.9.11:21161/udp/173c
+#EXTINF:-1 ,MiniMini HD
+http://188.35.9.11:21131/udp/141l
+#EXTINF:-1 ,TVP HD
+http://188.35.9.11:21121/udp/140g
+#EXTINF:-1 ,Viasat History HD
+http://188.35.9.11:21121/udp/137s
+#EXTINF:-1 ,BBC Lifetsyle HD
+http://188.35.9.11:21111/udp/164j
+#EXTINF:-1 ,Discovery Life HD
+http://188.35.9.11:21141/udp/142v
+#EXTINF:-1 ,Fox HD
+http://188.35.9.11:21131/udp/147l
+#EXTINF:-1 ,BBC Ceebeebies
+http://188.35.9.11:21111/udp/163h
+#EXTINF:-1 ,AXN HD
+http://188.35.9.11:21111/udp/127b
+#EXTINF:-1 ,Travel Channel HD
+http://188.35.9.11:21031/udp/038m
+#EXTINF:-1 ,EU MUSIC HD
+http://188.35.9.11:21031/udp/043m
+#EXTINF:-1 ,Oстросюжетное HD
+http://188.35.9.11:2015
+#EXTINF:-1 ,Dorcel TV HD
+http://188.35.9.11:21141/udp/214h
+#EXTINF:-1 ,Amedia Hit HD
+http://188.35.9.11:21131/udp/164g
