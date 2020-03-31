@@ -1,0 +1,319 @@
+#EXTM3U
+#EXTINF:-1 ,TVP Historia
+http://188.35.9.10:21111/udp/113k
+#EXTINF:-1 ,AXN
+http://188.35.9.10:21111/udp/127b
+#EXTINF:-1 ,BBC Brit
+http://188.35.9.10:21111/udp/162g
+#EXTINF:-1 ,Filmbox Extra HD
+http://188.35.9.10:21111/udp/170m
+#EXTINF:-1 ,National Geographic
+http://188.35.9.10:21121/udp/127x
+#EXTINF:-1 ,History
+http://188.35.9.10:21121/udp/128c
+#EXTINF:-1 ,XXX Private
+http://188.35.9.10:21121/udp/129i
+#EXTINF:-1 ,Cinemax 2 HD
+http://188.35.9.10:21121/udp/136y
+#EXTINF:-1 ,Polsat Viasat History
+http://188.35.9.10:21121/udp/137s
+#EXTINF:-1 ,TVP HD
+http://188.35.9.10:21121/udp/140g
+#EXTINF:-1 ,TVP 2
+http://188.35.9.10:21131/udp/135g
+#EXTINF:-1 ,ZEST
+http://188.35.9.10:21131/udp/137a
+#EXTINF:-1 ,XXX Vivid Red
+http://188.35.9.10:21131/udp/142d
+#EXTINF:-1 ,TELE 5
+http://188.35.9.10:21131/udp/143t
+#EXTINF:-1 ,Cinemax
+http://188.35.9.10:21131/udp/144y
+#EXTINF:-1 ,Fox
+http://188.35.9.10:21131/udp/147l
+#EXTINF:-1 ,HBO 3 HD
+http://188.35.9.10:21151/udp/154k
+#EXTINF:-1 ,BBC First
+http://188.35.9.10:21151/udp/155r
+#EXTINF:-1 ,BBC Earth
+http://188.35.9.10:21151/udp/156z
+#EXTINF:-1 ,HBO 2
+http://188.35.9.10:21151/udp/157a
+#EXTINF:-1 ,TNT
+http://188.35.9.10:21151/udp/184g
+#EXTINF:-1 ,CBS Europa
+http://188.35.9.10:21151/udp/187h
+#EXTINF:-1 ,Discovery Science
+http://188.35.9.10:21151/udp/188k
+#EXTINF:-1 ,HBO
+http://188.35.9.10:21151/udp/190z
+#EXTINF:-1 ,Eurosport 2
+http://188.35.9.10:21151/udp/192c
+#EXTINF:-1 ,Discovery Historia
+http://188.35.9.10:21161/udp/165e
+#EXTINF:-1 ,WP
+http://188.35.9.10:21161/udp/225k
+#EXTINF:-1 ,National Geographic
+http://188.35.9.11:21121/udp/127x
+#EXTINF:-1 ,History
+http://188.35.9.11:21121/udp/128c
+#EXTINF:-1 ,XXX Private
+http://188.35.9.11:21121/udp/129i
+#EXTINF:-1 ,Cinemax 2 HD
+http://188.35.9.11:21121/udp/136y
+#EXTINF:-1 ,Polsat Viasat History
+http://188.35.9.11:21121/udp/137s
+#EXTINF:-1 ,TVP HD
+http://188.35.9.11:21121/udp/140g
+#EXTINF:-1 ,TVP HISTORIA
+http://188.35.9.12:21111/udp/113k
+#EXTINF:-1 ,TVP HISTORIA
+http://188.35.9.12:21111/udp/113k
+#EXTINF:-1 ,AXN HD
+http://188.35.9.12:21111/udp/127b
+#EXTINF:-1 ,TVN HD
+http://188.35.9.12:21111/udp/201r
+#EXTINF:-1 ,TVN
+http://188.35.9.12:21111/udp/201r
+#EXTINF:-1 ,National Geographic
+http://188.35.9.12:21121/udp/127x
+#EXTINF:-1 ,History
+http://188.35.9.12:21121/udp/128c
+#EXTINF:-1 ,Cinemax 2 HD
+http://188.35.9.12:21121/udp/136y
+#EXTINF:-1 ,Polsat Viasat History
+http://188.35.9.12:21121/udp/137s
+#EXTINF:-1 ,TVP HD
+http://188.35.9.12:21121/udp/140g
+#EXTINF:-1 ,National Geographic
+http://188.35.9.13:21121/udp/127x
+#EXTINF:-1 ,Polsat Viasat History
+http://188.35.9.13:21121/udp/137s
+#EXTINF:-1 ,TVP HD
+http://188.35.9.13:21121/udp/140g
+#EXTINF:-1 ,National Geographic
+http://188.35.9.14:21121/udp/127x
+#EXTINF:-1 ,History
+http://188.35.9.14:21121/udp/128c
+#EXTINF:-1 ,XXX Private
+http://188.35.9.14:21121/udp/129i
+#EXTINF:-1 ,Cinemax 2 HD
+http://188.35.9.14:21121/udp/136y
+#EXTINF:-1 ,Polsat Viasat History
+http://188.35.9.14:21121/udp/137s
+#EXTINF:-1 ,TVP HD
+http://188.35.9.14:21121/udp/140g
+#EXTINF:-1 ,WP
+http://188.35.9.15:21161/udp/225k
+#EXTINF:-1 ,FILMBOX FAMILY
+http://188.35.9.8:21081/udp/154w
+#EXTINF:-1 ,FILMBOX FAMILY
+http://188.35.9.9:21081/udp/154w
+#EXTINF:-1 ,XXX OLALA
+http://188.35.9.9:21101/udp/118v
+#EXTINF:-1 ,XXX PLAYBOY
+http://188.35.9.9:21101/udp/127h
+#EXTINF:-1 ,TVP Historia
+http://188.35.9.9:21111/udp/113k
+#EXTINF:-1 ,TVP HISTORIA
+http://188.35.9.9:21111/udp/113k
+#EXTINF:-1 ,AXN HD
+http://188.35.9.9:21111/udp/127b
+#EXTINF:-1 ,AXN HD
+http://188.35.9.9:21111/udp/127b
+#EXTINF:-1 ,BBC Brit HD
+http://188.35.9.9:21111/udp/162g
+#EXTINF:-1 ,BBC BRIT
+http://188.35.9.9:21111/udp/162g
+#EXTINF:-1 ,Filmbox Extra
+http://188.35.9.9:21111/udp/170m
+#EXTINF:-1 ,FILMBOX EXTRA HD
+http://188.35.9.9:21111/udp/170m
+#EXTINF:-1 ,TVN
+http://188.35.9.9:21111/udp/201r
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC HD
+http://188.35.9.9:21121/udp/127x
+#EXTINF:-1 ,History
+http://188.35.9.9:21121/udp/128c
+#EXTINF:-1 ,HISTORY HD
+http://188.35.9.9:21121/udp/128c
+#EXTINF:-1 ,Cinemax 2 HD
+http://188.35.9.9:21121/udp/136y
+#EXTINF:-1 ,CINEMAX 2 HD
+http://188.35.9.9:21121/udp/136y
+#EXTINF:-1 ,Polsat Viasat History HD
+http://188.35.9.9:21121/udp/137s
+#EXTINF:-1 ,POLSAT VIASAT HISTORY HD
+http://188.35.9.9:21121/udp/137s
+#EXTINF:-1 ,TVP HD
+http://188.35.9.9:21121/udp/140g
+#EXTINF:-1 ,TVP HD
+http://188.35.9.9:21121/udp/140g
+#EXTINF:-1 ,TVP 2 HD
+http://188.35.9.9:21131/udp/135g
+#EXTINF:-1 ,TVP 2 HD
+http://188.35.9.9:21131/udp/135g
+#EXTINF:-1 ,ZEST TV
+http://188.35.9.9:21131/udp/137a
+#EXTINF:-1 ,XXX VIVID RED
+http://188.35.9.9:21131/udp/142d
+#EXTINF:-1 ,TELE 5
+http://188.35.9.9:21131/udp/143t
+#EXTINF:-1 ,Cinemax HD
+http://188.35.9.9:21131/udp/144y
+#EXTINF:-1 ,CINEMAX HD
+http://188.35.9.9:21131/udp/144y
+#EXTINF:-1 ,Fox HD
+http://188.35.9.9:21131/udp/147l
+#EXTINF:-1 ,FOX HD
+http://188.35.9.9:21131/udp/147l
+#EXTINF:-1 ,HBO 3 HD
+http://188.35.9.9:21151/udp/154k
+#EXTINF:-1 ,BBC FIRST
+http://188.35.9.9:21151/udp/155r
+#EXTINF:-1 ,BBC EARTH
+http://188.35.9.9:21151/udp/156z
+#EXTINF:-1 ,HBO 2 HD
+http://188.35.9.9:21151/udp/157a
+#EXTINF:-1 ,HBO 2 HD
+http://188.35.9.9:21151/udp/157a
+#EXTINF:-1 ,TNT HD
+http://188.35.9.9:21151/udp/184g
+#EXTINF:-1 ,TNT HD
+http://188.35.9.9:21151/udp/184g
+#EXTINF:-1 ,CBS EUROPA HD
+http://188.35.9.9:21151/udp/187h
+#EXTINF:-1 ,Discovery Science
+http://188.35.9.9:21151/udp/188k
+#EXTINF:-1 ,DISCOVERY SCIENCE HD
+http://188.35.9.9:21151/udp/188k
+#EXTINF:-1 ,HBO HD
+http://188.35.9.9:21151/udp/190z
+#EXTINF:-1 ,HBO HD
+http://188.35.9.9:21151/udp/190z
+#EXTINF:-1 ,Eurosport 2 HD
+http://188.35.9.9:21151/udp/192c
+#EXTINF:-1 ,EUROSPORT 2
+http://188.35.9.9:21151/udp/192c
+#EXTINF:-1 ,DISCOVERY HISTORIA
+http://188.35.9.9:21161/udp/165e
+#EXTINF:-1 ,TVS
+http://188.35.9.9:21161/udp/183q
+#EXTINF:-1 ,WP
+http://188.35.9.9:21161/udp/225k
+#EXTINF:-1 ,XXX PRIVATE HD
+http://188.35.9.9:21121/udp/129i
+#EXTINF:-1 ,XXX Olala
+http://188.35.9.10:21101/udp/118v
+#EXTINF:-1 ,TVN HD
+http://195.206.253.157:10301/tvn
+#EXTINF:-1 ,TVN 24 HD
+http://195.206.253.157:10401/tvn24
+#EXTINF:-1 ,TVN 7 HD
+http://195.206.253.157:10501/tvnsiedem
+#EXTINF:-1 ,POLSAT
+http://195.206.253.157:10801/polsat
+#EXTINF:-1 ,POLSAT 2 HD
+http://195.206.253.157:10901/polsat2
+#EXTINF:-1 ,TV 4
+http://195.206.253.157:11101/tv4
+#EXTINF:-1 ,Discovery Science HD
+http://195.206.253.157:11301/discoverysci
+#EXTINF:-1 ,FilmBox Action
+http://195.206.253.157:11401/filmbox
+#EXTINF:-1 ,FilmBox Extra
+http://195.206.253.157:11501/filmboxextra
+#EXTINF:-1 ,National Geographic HD
+http://195.206.253.157:11701/natgeo
+#EXTINF:-1 ,TVP Seriale
+http://195.206.253.157:11901/tvpseriale
+#EXTINF:-1 ,TVP Historia
+http://195.206.253.157:12800/tvphistoria
+#EXTINF:-1 ,Kino Polska
+http://195.206.253.157:13700/kinopolska
+#EXTINF:-1 ,Puls 2
+http://195.206.253.157:13900/religiatv
+#EXTINF:-1 ,AXN Black
+http://195.206.253.157:14200/axnblack
+#EXTINF:-1 ,AXN White
+http://195.206.253.157:14400/axnwhite
+#EXTINF:-1 ,TV 6 HD
+http://195.206.253.157:14500/tv6
+#EXTINF:-1 ,FilmBox Premium HD
+http://195.206.253.157:15900/filmbox
+#EXTINF:-1 ,TVP Rozrywka
+http://195.206.253.157:16700/tvprozrywka
+#EXTINF:-1 ,BBC First HD
+http://195.206.253.157:17500/bbchd
+#EXTINF:-1 ,H2 HD
+http://195.206.253.157:17700/h2hd
+#EXTINF:-1 ,Fokus TV
+http://195.206.253.157:18300/fokus
+#EXTINF:-1 ,TNT HD
+http://195.206.253.157:18700/tnt
+#EXTINF:-1 ,HBO 2 HD
+http://195.206.253.157:19100/hbo2
+#EXTINF:-1 ,HBO 3 HD
+http://195.206.253.157:19200/hbo3
+#EXTINF:-1 ,13 Ulica HD
+http://195.206.253.157:19300/13ulica
+#EXTINF:-1 ,Polsat Play HD
+http://195.206.253.157:19400/polsatplay
+#EXTINF:-1 ,HBO
+http://195.206.253.157:20300/hbo
+#EXTINF:-1 ,History HD
+http://195.206.253.157:8101/history
+#EXTINF:-1 ,TVP INFO HD
+http://195.206.253.157:8501/tvpinfo
+#EXTINF:-1 ,Ale kino+ HD
+http://195.206.253.157:9601/alekino
+#EXTINF:-1 ,BBC Earth HD
+http://213.108.224.253:7654/udp/239.239.4.58:1234
+#EXTINF:-1 ,TVN 24
+http://213.108.224.253:7654/udp/239.239.4.70:1234
+#EXTINF:-1 ,TVP INFO
+http://213.108.224.253:7654/udp/239.239.6.10:1234
+#EXTINF:-1 ,POLSAT
+http://213.108.224.253:7654/udp/239.239.6.16:1234
+#EXTINF:-1 ,TVN
+http://213.108.224.253:7654/udp/239.239.6.17:1234
+#EXTINF:-1 ,TV 4
+http://213.108.224.253:7654/udp/239.239.6.18:1234
+#EXTINF:-1 ,TV PULS
+http://213.108.224.253:7654/udp/239.239.6.19:1234
+#EXTINF:-1 ,TV 6
+http://213.108.224.253:7654/udp/239.239.6.21:1234
+#EXTINF:-1 ,SUPER POLSAT HD
+http://213.108.224.253:7654/udp/239.239.6.23:1234
+#EXTINF:-1 ,STOPKLATKA
+http://213.108.224.253:7654/udp/239.239.6.28:1234
+#EXTINF:-1 ,TVN 7
+http://213.108.224.253:7654/udp/239.239.6.29:1234
+#EXTINF:-1 ,FOKUS TV
+http://213.108.224.253:7654/udp/239.239.6.30:1234
+#EXTINF:-1 ,PULS 2
+http://213.108.224.253:7654/udp/239.239.6.31:1234
+#EXTINF:-1 ,NOWA TV
+http://213.108.224.253:7654/udp/239.239.6.32:1234
+#EXTINF:-1 ,METRO
+http://213.108.224.253:7654/udp/239.239.6.33:1234
+#EXTINF:-1 ,WP
+http://213.108.224.253:7654/udp/239.239.6.34:1234
+#EXTINF:-1 ,ZOOM TV
+http://213.108.224.253:7654/udp/239.239.6.35:1234
+#EXTINF:-1 ,TVP SPORT
+http://213.108.224.253:7654/udp/239.239.6.37:1234
+#EXTINF:-1 ,TVP 1
+http://213.108.224.253:7654/udp/239.239.6.3:1234
+#EXTINF:-1 ,TVP 2
+http://213.108.224.253:7654/udp/239.239.6.4:1234
+#EXTINF:-1 ,TVP KULTURA
+http://213.108.224.253:7654/udp/239.239.6.5:1234
+#EXTINF:-1 ,TVP HISTORIA
+http://213.108.224.253:7654/udp/239.239.6.7:1234
+#EXTINF:-1 ,TVP ROZRYWKA
+http://213.108.224.253:7654/udp/239.239.6.9:1234
+#EXTINF:-1 ,Polsat News
+http://hls.redefine.pl/20C4EB56/1575/0/hls576/576p/list.m3u8
+#EXTINF:-1 ,Polsat Viasat Nature
+http://hls.redefine.pl/27D4F385/4195/0/hls576/masterlist.m3u8
